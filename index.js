@@ -1,5 +1,5 @@
-let i = 0;
+let z = 0;
 
-for(i=1; i<100; i++){
-    console.log(i)
+for(z=1; z<100; z++){
+    console.log(z)
 }
